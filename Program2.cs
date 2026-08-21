@@ -19,6 +19,6 @@ namespace snackShack
             Application.Run(new frm_snackInvent2());
         }
 
-        internal static List<snackInvent> snacks = new List<snackInvent>();
+        internal static List<snackInvent2> snacks = new List<snackInvent2>();
     }
 }
