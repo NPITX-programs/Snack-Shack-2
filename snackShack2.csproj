@@ -52,7 +52,7 @@
     <Compile Include="frm_snackInvent2.Designer.cs">
       <DependentUpon>frm_snackInvent2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Program2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="snackInvent.cs" />
     <EmbeddedResource Include="frm_snackInvent2.resx">
