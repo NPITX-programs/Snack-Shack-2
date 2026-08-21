@@ -43,7 +43,7 @@ namespace snackShack
                 nud_snackPrice.Focus();
             } else
             {
-                snackInvent snack = new snackInvent();
+                snackInvent2 snack = new snackInvent2();
                 snack.name = txt_snackName.Text;
                 snack.price = Convert.ToDouble(nud_snackPrice.Value);
                 snack.amount = Convert.ToInt32(nud_snackQuantity.Value);

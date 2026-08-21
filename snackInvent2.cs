@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace snackShack
 {
-    internal class snackInvent
+    internal class snackInvent2
     {
         internal string name;
         internal double price;
