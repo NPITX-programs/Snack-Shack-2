@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace snackShack
 {
-    internal static class Program
+    internal static class Program2
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,9 @@ namespace snackShack
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frm_snackInvent2());
         }
+
+        internal static List<snackInvent2> snacks = new List<snackInvent2>();
     }
 }
