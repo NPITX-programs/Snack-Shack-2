@@ -16,7 +16,7 @@ namespace snackShack
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_snackInvent());
+            Application.Run(new frm_snackInvent2());
         }
 
         internal static List<snackInvent> snacks = new List<snackInvent>();

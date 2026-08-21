@@ -1,6 +1,6 @@
 ﻿namespace snackShack
 {
-    partial class frm_snackInvent
+    partial class frm_snackInvent2
     {
         /// <summary>
         /// Required designer variable.
