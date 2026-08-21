@@ -11,9 +11,9 @@ using System.IO;
 
 namespace snackShack
 {
-    public partial class frm_snackInvent : Form
+    public partial class frm_snackInvent2 : Form
     {
-        public frm_snackInvent()
+        public frm_snackInvent2()
         {
             InitializeComponent();
         }
